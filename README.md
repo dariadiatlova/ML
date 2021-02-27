@@ -6,3 +6,4 @@ Homework assignments:
 - GAN and vae, cat images generation
 - SVM (linear and polinomial kernnel) 
 - Decision Trees 
+- Random forest 
