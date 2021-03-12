@@ -1,6 +1,6 @@
 # Introduction to machine learning 
 Homework assignments:
-- Linera regression
+- Linear regression (predicting the cost of an appartment in Boston)
 - Perceptron bsed classifier (MNIST)
 - Neural Networks (Vanilla Python & Pytorch implementation)
 - GAN and vae, cat images generation
