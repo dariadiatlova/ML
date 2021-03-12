@@ -7,3 +7,5 @@ Homework assignments:
 - SVM (linear and polinomial kernnel) 
 - Decision Trees 
 - Random forest (decision trees based implementation & Catboost)
+- Naive Bayes (spam & ham classification, using Bow and stemming) 
+- Stochastic Stranding (using Hill Climb and Genetic algorithm for optimizing the route for runners)
